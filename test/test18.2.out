@@ -1,0 +1,12 @@
+S,X,Y,Z,x',<xx>,<xxx>,<YZ>
+x
+S
+S->x'<xxx>
+x'->x
+<xxx>->x'<xx>
+<xx>->x'x'
+S->X<YZ>
+<YZ>->YZ
+Y->x'x'
+Z->x
+X->x

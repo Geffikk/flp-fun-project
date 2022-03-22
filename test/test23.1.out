@@ -1,0 +1,12 @@
+X,C,S,A
+a
+S
+X->aa
+X->AAA
+X->a
+X->aA
+X->AX
+C->AAA
+C->a
+S->aA
+S->AX

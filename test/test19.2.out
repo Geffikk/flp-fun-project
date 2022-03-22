@@ -1,0 +1,15 @@
+S,X,B,A,a',<XB>,x',<AB>,b',<Bbb>,<bb>
+a,x,b
+S
+B->x'x'
+x'->x
+B->B<AB>
+<AB>->AB
+X->x
+X->b'<Bbb>
+b'->b
+<Bbb>->B<bb>
+<bb>->b'b'
+S->a'<XB>
+<XB>->XB
+a'->a

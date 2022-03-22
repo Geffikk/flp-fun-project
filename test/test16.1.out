@@ -1,0 +1,13 @@
+S,X,Y
+a,b
+S
+S->aXbX
+S->abX
+S->aXb
+S->ab
+X->aY
+X->bY
+X->a
+X->b
+Y->aY
+Y->bY

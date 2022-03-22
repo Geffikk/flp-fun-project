@@ -1,0 +1,10 @@
+X,C,S,A
+a
+S
+X->aa
+X->C
+X->S
+C->AAA
+C->a
+S->aA
+S->AX

@@ -1,0 +1,14 @@
+X,C,S,A,a',<AA>
+a
+S
+X->a'a'
+a'->a
+X->A<AA>
+<AA>->AA
+X->a
+X->a'A
+X->AX
+C->A<AA>
+C->a
+S->a'A
+S->AX

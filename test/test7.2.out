@@ -1,0 +1,8 @@
+S,X,b',d',a'
+a,b,d
+S
+S->b'X
+b'->b
+X->a'd'
+a'->a
+d'->d

@@ -1,0 +1,9 @@
+S,A,X,a',<aA>,<AA>
+a
+S
+S->A<AA>
+<AA>->AA
+A->A<aA>
+<aA>->a'A
+a'->a
+X->A<AA>

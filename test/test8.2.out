@@ -1,0 +1,8 @@
+A,x',y',z',<yz>
+x,y,z
+A
+A->x'<yz>
+x'->x
+<yz>->y'z'
+y'->y
+z'->z

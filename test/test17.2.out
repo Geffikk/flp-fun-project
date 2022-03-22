@@ -1,0 +1,12 @@
+S,A,<bA>,b',a'
+a,b
+S
+S->A<bA>
+<bA>->b'A
+b'->b
+S->b'A
+S->Ab'
+S->b
+A->Aa'
+a'->a
+A->a
